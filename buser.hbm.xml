@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>  
+<!DOCTYPE hibernate-mapping PUBLIC  
+ "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">  
+  
+ <hibernate-mapping>  
+  <class name="Buser" table="buser">  
+    <id name="email">  
+     <generator class="assigned"></generator>  
+    </id>  
+     <property name="name"></property>  
+     <property name="password"></property>  
+     <property name="city"></property>  
+     <property name="state"></property>  
+    <property name="phone"></property>  
+   
+   
+   
+            
+  </class>  
+            
+ </hibernate-mapping> 

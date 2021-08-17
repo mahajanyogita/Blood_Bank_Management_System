@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>  
+<!DOCTYPE hibernate-mapping PUBLIC  
+ "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">  
+  
+
+ <hibernate-mapping>  
+  <class name="Hospital" table="hospital">  
+    <id name="email">  
+     <generator class="assigned"></generator>  
+    </id>  
+    <property name="name"></property>  
+    <property name="phone"></property>  
+    <property name="password"></property>   
+    <property name="state"></property>
+    <property name="city"></property>
+    <property name="ap"></property>  
+    <property name="an"></property> 
+    <property name="bp"></property>  
+    <property name="bn"></property> 
+   <property name="abp"></property>  
+    <property name="abn"></property> 
+   <property name="opb"></property>  
+    <property name="onb"></property> 
+
+
+  </class>  
+            
+ </hibernate-mapping> 
