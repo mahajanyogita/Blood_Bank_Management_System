@@ -6,6 +6,13 @@ It is a desktop application developed using java
 ### JFreeCharts are used for data visualization
 
 
+#### Commands to run project on cmd:
+![image](https://user-images.githubusercontent.com/62995588/129670003-2269cf86-0360-4971-9713-76c3d1ae7d20.png)
+
+
+
+
+
 Blood Bank Management System handles data of 
 
 1) Users
