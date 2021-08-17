@@ -25,4 +25,8 @@ after Login they can Edit  their profile.
 
 All users of system can see Analysis of system
 1) Number of users,Donors, Hospitals and Organizations registered on given system are represented using Pie chart.
-2) Number of blood Bags available on the system for each blood groups are represend by using Bar Chart.
+ ![image](https://user-images.githubusercontent.com/62995588/129669734-b57f8c3f-2834-4e8f-ad99-ecae5ab59655.png)
+
+3) Number of blood Bags available on the system for each blood groups are represend by using Bar Chart.
+   ![image](https://user-images.githubusercontent.com/62995588/129669809-3327b3dd-a78e-4dc0-98f5-a80d99ed812a.png)
+ 
